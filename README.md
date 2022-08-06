@@ -8,8 +8,8 @@
 <ul class="index"><li><a class="index-link" href="#m1870">Einleitung</a></li><li><a class="index-link" href="#m3">Verantwortlicher</a></li><li><a class="index-link" href="#mOverview">Übersicht der Verarbeitungen</a></li><li><a class="index-link" href="#m13">Maßgebliche Rechtsgrundlagen</a></li><li><a class="index-link" href="#m136">Präsenzen in sozialen Netzwerken (Social Media)</a></li></ul>
 
 ## Verantwortlicher
-<p>Josef, Müller<br>Schlachthausstraße 31<br>78224 Singen</p>
-E-Mail-Adresse: <p><a href="mailto:fracht.zitronig.0v@icloud.com">fracht.zitronig.0v@icloud.com</a></p>
+<p>Josef, Müller<br>
+E-Mail-Adresse: <a href="mailto:fracht.zitronig.0v@icloud.com">fracht.zitronig.0v@icloud.com</a>
 
 ## Übersicht der Verarbeitungen
 <p>Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwecke ihrer Verarbeitung zusammen und verweist auf die betroffenen Personen.</p><h3>Arten der verarbeiteten Daten</h3>
